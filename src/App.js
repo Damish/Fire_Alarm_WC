@@ -7,8 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-        <p>
-          Hiiiiiiiii react
+        <p>this is our fire alarm project.
         </p>
 
       </header>
