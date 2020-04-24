@@ -13,6 +13,7 @@ function App() {
           <h1>Kisal Randulatutu57</h1>
           <div class="jumbotron bg-primary">
               Hello i'm Kisal.
+
           </div>
 
 
