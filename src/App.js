@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-        <p>this is our fire alarm project.
+        <p>this is our fire alarm project.Last Edit :Dinithi
         </p>
 
       </header>
