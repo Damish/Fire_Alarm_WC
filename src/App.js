@@ -11,6 +11,10 @@ function App() {
             I am Damish.
         </p>
           <h1>Kisal Randulatutu57</h1>
+          <div class="jumbotron bg-primary">
+              Hello i'm Kisal.
+          </div>
+
 
       </header>
     </div>
