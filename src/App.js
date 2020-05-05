@@ -12,14 +12,13 @@ class App extends Component {
     componentDidMount() {
         this.timerID = setInterval(
             () => this.tick(),
-            1000
+            40000
         );
     }
 
     componentWillUnmount() {
         clearInterval(this.timerID);
     }
-
     tick() {
         fetch('http://localhost:8080/SensorData_REST_API/rest/sensors')
             .then((response) => {
