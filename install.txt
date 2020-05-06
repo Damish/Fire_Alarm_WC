@@ -1,0 +1,15 @@
+*** Please read workingOrder.txt before following steps***
+
+1. Open Webstrom and select 'get form Version Control'
+
+2.Paste the url and clone project. 'https://github.com/Damish/Fire_Alarm_WC.git'
+
+3.Run npm install
+
+4.Right click on created project and click 'open in Terminal'.
+
+5.Type npm start and click enter.
+
+6.Now the Web client is running in 'localhost:3000'
+
+7.Goto Browser url 'localhost:3000' to open webclient.
